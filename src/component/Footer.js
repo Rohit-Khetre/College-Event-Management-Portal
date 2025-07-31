@@ -7,7 +7,7 @@ import '../style/Footer.css';
 
 function Footer() {
   return (
-    <footer className="footer-custom text-white py-4">
+    <footer className="footer-custom mt-4 text-white py-4">
       <Container>
         <Row className="text-center">
           <Col xs={12} md={4} className="mb-3 mb-md-0">

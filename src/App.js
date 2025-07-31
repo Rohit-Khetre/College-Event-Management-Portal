@@ -1,9 +1,9 @@
 import './App.css';
-import Footer from './component/Footer';
+import AuthPage from './pages/AuthPage';
 function App() {
   return (
     <>
-    <Footer/>
+    <AuthPage/>
     </>
   );
 }
